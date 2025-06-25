@@ -1,105 +1,101 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rupesh+H!;Visual+Communication+Student;Filmmaker+%7C+Photographer+%7C+Editor" alt="Typing SVG" />
+Thanks! Based on your GitHub username **`RUPESH04-05`**, here’s the **final, personalized, premium GitHub Profile README** code you can directly use:
+
+---
+
+### ✅ **Ready-to-Use `README.md` for [RUPESH04-05](https://github.com/RUPESH04-05)**
+
+````markdown
+<h1 align="center" style="color:#fff;">
+  Hi there, I'm <span style="color:#00CED1;">Rupesh H</span> 👋
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00CED1&center=true&vCenter=true&width=435&lines=Visual+Communication+Student;Filmmaker+%7C+Editor+%7C+Photographer;Creative+Minds+Speak+Visually" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🎨 About Me
+## 🧑‍🎓 About Me
 
-🌟 I'm a creative Visual Communication student at **Madras University**, passionate about expressing stories through:
-
-- 🎬 Short Films
-- 🖼️ Graphic Design
-- 📸 Photography
-- 🎧 Audio/Video Editing  
-- 🎨 Painting
-
-I aim to blend creativity with tech to make **bold, meaningful visuals**.
+> 🎓 B.Sc. Visual Communication – Madras University  
+> 🎬 Passionate about filmmaking, video editing, and visual storytelling  
+> 🎨 Artistic eye with a logical brain: blending creativity and structure  
+> 🔍 Always learning, always exploring new visual media tools
 
 ---
 
-### 📫 Connect with Me
+## 🛠️ Technical & Creative Skills
 
-<p align="left">
-  <a href="mailto:rupeshjyoshna30@gmail.com"><img src="https://img.shields.io/badge/Gmail-rupeshjyoshna30@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://wa.me/919500020887" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp"></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
-</p>
-
----
-
-### 💼 Projects Showcase
-
-| 🎥 Short Film | 🎨 Graphic Design | 📸 Photography |
-|--------------|-------------------|----------------|
-| ![Short Film](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif) | ![Design](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif) | ![Photo](https://media.giphy.com/media/3og0IJ3wcu3kfVRUdy/giphy.gif) |
+```bash
+• Adobe Photoshop         • Premiere Pro
+• Illustrator             • Audio/Video Editing
+• Photography             • Color Grading
+• Visual Storytelling     • Creativity & Design Thinking
+````
 
 ---
 
-### ⚡ My Skills
-
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Photography](https://img.shields.io/badge/Photography-000000?style=for-the-badge&logo=aperture&logoColor=white)
-![Creativity](https://img.shields.io/badge/Creative%20Thinker-00BFFF?style=for-the-badge)
-
----
-
-### 🧠 Soft Skills
-
-- 📌 Quick Learning  
-- 📌 Logical Thinking  
-- 📌 Problem Solving  
-- 📌 Critical Thinking  
-- 📌 Artistic Vision  
-
----
-
-### 📊 GitHub Stats
+## 📫 Reach Me At
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="150"/>
+  <a href="mailto:rupeshjyoshna30@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/919500020887"><img src="https://img.shields.io/badge/WhatsApp-Chat Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://github.com/RUPESH04-05"><img src="https://img.shields.io/badge/GitHub-RUPESH04--05-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=5"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RUPESH04-05&show_icons=true&theme=algolia&hide_border=true&border_radius=8&custom_title=My+GitHub+Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUPESH04-05&layout=compact&theme=algolia&hide_border=true&border_radius=8" height="180"/>
 </p>
 
 ---
 
-### 🌍 Visitor Counter
+## 🔥 GitHub Streaks
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blue&style=plastic" alt="Profile Views" />
+  <img src="https://streak-stats.demolab.com?user=RUPESH04-05&theme=dark&hide_border=true&border_radius=8"/>
 </p>
 
 ---
 
-### ✍️ Quote of the Day
+## 🕶️ Visitor Count
 
-> “Design is not just what it looks like and feels like. Design is how it works.” — *Steve Jobs*
-
----
-
-Replace every `YOUR_GITHUB_USERNAME` with your actual GitHub username (e.g., `RupeshH`).
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RUPESH04-05&label=Profile+Views&color=0e75b6&style=flat-square" />
+</p>
 
 ---
 
-## Want More Customizations?
+## 🎯 Quote
 
-I can help you:
-- 🎬 Embed your actual short film or Behance/YouTube links
-- 🎨 Add a color theme or dark/light toggle
-- 💼 Link real project thumbnails
+```text
+"Creativity is allowing yourself to make mistakes.
+Art is knowing which ones to keep."
+```
 
-Would you like me to generate one with your **actual images**, portfolio links, or **YouTube videos**?
+---
+
+> ⚡ Powered by passion, creativity, and endless cups of coffee ☕
+> — Rupesh H
+
+```
+
+---
+
+### 📌 Steps to Add It
+1. Go to: [https://github.com/RUPESH04-05](https://github.com/RUPESH04-05)
+2. Click `New repository`
+3. Name it exactly: **`RUPESH04-05`** (same as your username)
+4. Check "Add a README file"
+5. After repo is created, click `README.md`, then click the pencil ✏️ to edit
+6. Paste the entire code above
+7. Click **Commit changes**
+
+Your premium profile will now show automatically at the top of your GitHub profile! 🎉
+
+Would you also like me to generate a **portfolio HTML version** using this same design style?
+```
